@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | B.Tech CSE Student | Software Engineering Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi-git06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Production-Ready+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,28 +11,54 @@
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Passionate about Full Stack Web Development
+- 🚀 Building production-ready web applications
 - 🌱 Currently learning **React, TypeScript, Express.js, PostgreSQL & Prisma**
-- 🚀 Building production-ready projects
 - 🎯 Aspiring Software Engineer at a Product-Based Company
 - 📷 Photography Enthusiast
 
 ---
 
-## 🚀 Current Project
+## 🌟 Featured Projects
 
-### 📌 Kanban Board
+### 🚀 Kanban Board
+**Tech:** React • TypeScript • Express.js • PostgreSQL • Prisma • Tailwind CSS
 
-A production-ready Trello-inspired Kanban application built with:
+Production-ready Trello-inspired Kanban application featuring authentication, drag-and-drop task management, dashboards, and collaborative workspace support.
 
-- ⚛️ React + TypeScript
-- 🎨 Tailwind CSS
-- 🚀 Express.js
-- 🐘 PostgreSQL
-- 🔺 Prisma ORM
-- 🔐 JWT Authentication
-- 📊 Dashboard & Analytics
-- 🎯 Drag & Drop
-- 👥 Team Collaboration
+---
+
+### 🌊 Coastal Flood Vulnerability Index
+**Tech:** JavaScript • GIS • Satellite Imagery
+
+Interactive dashboard for analyzing and visualizing coastal flood vulnerability across Tamil Nadu using geospatial data and satellite imagery.
+
+---
+
+### 🎓 Scholarship Track Portal
+**Tech:** MERN Stack • MongoDB • Express.js • React • Node.js
+
+A web platform that helps students discover, apply for, and track scholarships through personalized eligibility matching.
+
+---
+
+### 🤝 NGO Donation Utilization Transparency System
+**Tech:** Node.js • Express.js • PostgreSQL
+
+A donation transparency platform for NGOs to monitor fund allocation, improve accountability, and provide detailed utilization reports.
+
+---
+
+### 🚗 Garage WhatsApp Bot
+**Tech:** JavaScript • WhatsApp API
+
+An automated WhatsApp chatbot for garage service bookings, appointment scheduling, and customer status updates.
+
+---
+
+### 🌍 ASR Holidaz Website
+**Tech:** React • JavaScript
+
+A modern travel website featuring tour packages, vehicle listings, and an admin dashboard for managing travel services.
 
 ---
 
@@ -86,9 +112,9 @@ A production-ready Trello-inspired Kanban application built with:
 
 - ✅ Build 10+ production-ready projects
 - 🚀 Master Full Stack Development
-- 📚 Strengthen DSA & Problem Solving
+- 📚 Strengthen Data Structures & Algorithms
 - 🤝 Contribute to Open Source
-- 💼 Land a Software Engineering Internship
+- 💼 Secure a Software Engineering Internship
 - 🏆 Crack a Product-Based Company
 
 ---
@@ -128,12 +154,12 @@ A production-ready Trello-inspired Kanban application built with:
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/abhi-git06
-- 💬 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your email here)*
+- 💼 **GitHub:** https://github.com/abhi-git06
+- 💼 **LinkedIn:** *(Add your LinkedIn profile URL)*
+- 📧 **Email:** *(Add your email address)*
 
 ---
 
 <p align="center">
-<i>"Building scalable software, one commit at a time."</i>
+  <i>"Turning ideas into scalable software, one commit at a time."</i>
 </p>
