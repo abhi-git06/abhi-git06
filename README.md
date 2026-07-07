@@ -27,7 +27,7 @@ Production-ready Trello-inspired Kanban application featuring authentication, dr
 
 ---
 
-### 🌊 [Coastal Flood Vulnerability Index](https://github.com/abhi-git06/COASTAL-FLOOD-VULNERABILITY-INDEX)
+### 🌊 [Tamilnadu Flood Vulnerability Index](https://github.com/abhi-git06/TAMILNADU-FLOOD-VULNERABILITY-INDEX)
 **Tech:** JavaScript • GIS • Satellite Imagery
 
 Interactive dashboard for analyzing and visualizing coastal flood vulnerability across Tamil Nadu using geospatial data and satellite imagery.
